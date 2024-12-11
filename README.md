@@ -35,7 +35,7 @@
 ###
 
 <div align="center">
-  <img height="2000" src="https://github.com/vie674/vie674/blob/main/image.png"  />
+  <img src="https://github.com/vie674/vie674/blob/main/image.png"  />
 </div>
 
 ###
