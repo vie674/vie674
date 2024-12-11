@@ -1,13 +1,41 @@
-<h1 align="center">Hi 👋, I'm Đỗ Quốc Việt</h1>
-<h3 align="center">A passionate Embedded Enginerring</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-- 📫 How to reach me **quocvietwork2@gmail.com**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/%c4%91%e1%bb%97-qu%e1%bb%91c-vi%e1%bb%87t-626057246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%c4%91%e1%bb%97-qu%e1%bb%91c-vi%e1%bb%87t-626057246/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100009745800716" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009745800716" height="30" width="40" /></a>
-</p>
+<p align="left">My name is Quoc Viet and I'm a Embedded Engineer from Hanoi, Vietnam</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ I am looking for new career oppotunities related to embedded systems in Hanoi, Vietnam<br>Contact: quocvietwork2@gmail.com<br>📚 I am currently studying Linux and embedded systems in the automotive field, focusing on enhancing my skills in embedded software development and communication protocols.<br>🎯 Goals: To become a professional embedded engineer and contribute to the advancement  technology solutions, especially in the automotive industry.<br>🎲 Fun fact: I love K-drama</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<h2 align="left">Road Map</h2>
+
+###
+
+<div align="center">
+  <img height="200" src="https://github.com/vie674/vie674/blob/main/image.png"  />
+</div>
+
+###
